@@ -12,3 +12,5 @@ React Native Examples
 * Activity Indicator
 * Modals
 * Navigation
+* Contacts 3rd LIB
+* FontAwesome 3rd LIB
