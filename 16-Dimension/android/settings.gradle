@@ -1,0 +1,3 @@
+rootProject.name = 'DimensionExample'
+
+include ':app'
