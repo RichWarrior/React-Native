@@ -16,3 +16,4 @@ React Native Examples
 * FontAwesome 3rd LIB
 * Platform
 * Dimension
+* Animation
