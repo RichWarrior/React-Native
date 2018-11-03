@@ -19,3 +19,5 @@ React Native Examples
 * Animation
 * Tab Navigators
 * Interpolate
+* Text Animations
+* Lottie 3rd LIB
