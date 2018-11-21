@@ -23,3 +23,4 @@ React Native Examples
 * Lottie 3rd LIB
 * Project : TodoList Application
 * Redux Introduce
+* Project : TodoList Redux App
